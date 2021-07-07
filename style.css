@@ -14,3 +14,23 @@
 .div1heading{
     font-size: 15px;
 }
+.resultTag{
+    font-size: 20px;
+    box-shadow: 5px 5px 5px darkred;
+}
+canvas{
+    border: 10px solid black;
+    border-radius: 20px;
+    box-shadow: 10px 10px 1px blue;
+    margin-top: 150px;
+}
+.divFooter{
+    position: fixed;
+    bottom: 0;
+    color: mediumslateblue;
+    background-color: silver;
+    width: 100%;
+    text-align: center;
+    line-height: 5;
+    font-weight: bolder;
+}
